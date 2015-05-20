@@ -1,0 +1,1 @@
+Generic, out-of-the-box text processing and extraction platform. Primarily unsupervised platform, can be trained in post processing when needed. Support for Finnish (Omorfi: POS, lemmas) and English (POS: OpenNLP).
